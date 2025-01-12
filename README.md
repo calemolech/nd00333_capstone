@@ -223,6 +223,8 @@ These details, the scoring URI and secret key, must be incorporated into the end
 - Demo of the deployed  model
 - Demo of a sample request sent to the endpoint and its response
 
+Youtube link: [https://youtu.be/LWCzYraI1z8](https://youtu.be/LWCzYraI1z8)
+
 ## Standout Suggestions
 - Prevent Overfitting: To avoid overfitting in models:
     - Increase training data to reduce bias.
